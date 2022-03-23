@@ -1,0 +1,34 @@
+namespace = seduce_outcome
+
+seduce_outcome.3901 = { 
+
+type = hidden_event
+
+immediate = {
+		send_interface_message = {
+
+	type = pingvin_silent_seduce
+	title = seduce_outcome.3901.t
+	desc = seduce_outcome.pingvin.1.desc
+	left_icon = scope:owner
+	right_icon = scope:target
+
+}
+}
+}
+
+seduce_outcome.4900 = {
+	
+	type = hidden_event
+
+immediate = {
+		send_interface_message = {
+	type = pingvin_silent_seduce
+	title = seduce_outcome.3901.t
+	desc = seduce_outcome.pingvin.2.desc
+	left_icon = scope:owner
+	right_icon = scope:target
+	
+	}
+	}
+	}

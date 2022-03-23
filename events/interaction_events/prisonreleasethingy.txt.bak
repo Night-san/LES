@@ -1,0 +1,14 @@
+﻿namespace = char_interaction
+
+char_interaction.0160 = {
+
+type = hidden_event
+	
+	immediate = {
+		send_interface_message = {
+			type = event_captured_combatants_good
+			title = prisonreleasethingy.title
+			desc = prisonreleasethingy.message
+		}
+	}
+}

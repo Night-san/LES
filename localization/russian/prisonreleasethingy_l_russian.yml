@@ -1,0 +1,4 @@
+﻿l_russian: 
+ prisonreleasethingy.title:0 "Заключенный согласен на освобождение"
+ prisonreleasethingy.message:0 "[recipient.GetShortUINameNoTooltip] согласился на ваши условия их освобождения."
+ 

@@ -1,0 +1,16 @@
+﻿namespace = marriage_interaction
+
+marriage_interaction.0010 = {
+
+type = hidden_event
+	
+	immediate = {
+		send_interface_message = {
+			type = good_omen
+			title = pingvin.marriage.title
+			desc = pingvin.marriage.desc
+			left_icon = scope:secondary_actor
+			right_icon = scope:secondary_recipient			
+		}
+	}
+}
