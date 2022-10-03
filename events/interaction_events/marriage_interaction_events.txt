@@ -378,7 +378,7 @@ marriage_interaction.0009 = {
 # Marriage Proposal: Accepted
 marriage_interaction.0010 = {
 
-type = hidden_event
+	hidden = yes
 	
 	immediate = {
 		send_interface_message = {

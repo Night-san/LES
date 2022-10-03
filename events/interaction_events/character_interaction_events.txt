@@ -558,7 +558,7 @@ char_interaction.0151 = {
 # (Conditional) Release from Prison: Accepted
 char_interaction.0160 = {
 
-type = hidden_event
+	hidden = yes
 	
 	immediate = {
 		send_interface_message = {
